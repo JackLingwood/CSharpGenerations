@@ -1,2 +1,3 @@
 # CSharpGenerations
-A C# solutions that demonstrates the changes that were introduced with each version of the language
+A C# solutions that demonstrates the changes that were introduced with each version of the language.
+Testing.
